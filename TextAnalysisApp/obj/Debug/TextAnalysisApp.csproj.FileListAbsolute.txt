@@ -1,0 +1,7 @@
+C:\Users\maggi\source\repos\TextAnalysisApp\TextAnalysisApp\bin\Debug\Assessment.exe.config
+C:\Users\maggi\source\repos\TextAnalysisApp\TextAnalysisApp\bin\Debug\Assessment.exe
+C:\Users\maggi\source\repos\TextAnalysisApp\TextAnalysisApp\bin\Debug\Assessment.pdb
+C:\Users\maggi\source\repos\TextAnalysisApp\TextAnalysisApp\obj\Debug\TextAnalysisApp.csproj.AssemblyReference.cache
+C:\Users\maggi\source\repos\TextAnalysisApp\TextAnalysisApp\obj\Debug\TextAnalysisApp.csproj.CoreCompileInputs.cache
+C:\Users\maggi\source\repos\TextAnalysisApp\TextAnalysisApp\obj\Debug\Assessment.exe
+C:\Users\maggi\source\repos\TextAnalysisApp\TextAnalysisApp\obj\Debug\Assessment.pdb
