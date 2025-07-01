@@ -1,12 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maggi\\source\\repos\\TextAnalysisApp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\maggi\\Downloads\\MargaretNjenga24846577\\TextAnalysisApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7080040E-FBD4-4B6A-8B17-3C8FA89F2EE2}|TextAnalysisApp\\TextAnalysisApp.csproj|c:\\users\\maggi\\downloads\\margaretnjenga24846577\\textanalysisapp\\textanalysisapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7080040E-FBD4-4B6A-8B17-3C8FA89F2EE2}|TextAnalysisApp\\TextAnalysisApp.csproj|solutionrelative:textanalysisapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7080040E-FBD4-4B6A-8B17-3C8FA89F2EE2}|TextAnalysisApp\\TextAnalysisApp.csproj|C:\\Users\\maggi\\Downloads\\MargaretNjenga24846577\\TextAnalysisApp\\textanalysisapp\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7080040E-FBD4-4B6A-8B17-3C8FA89F2EE2}|TextAnalysisApp\\TextAnalysisApp.csproj|solutionrelative:textanalysisapp\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maggi\\Downloads\\MargaretNjenga24846577\\TextAnalysisApp\\TextAnalysisApp\\Program.cs",
+              "RelativeDocumentMoniker": "TextAnalysisApp\\Program.cs",
+              "ToolTip": "C:\\Users\\maggi\\Downloads\\MargaretNjenga24846577\\TextAnalysisApp\\TextAnalysisApp\\Program.cs",
+              "RelativeToolTip": "TextAnalysisApp\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:40:23.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\maggi\\Downloads\\MargaretNjenga24846577\\TextAnalysisApp\\TextAnalysisApp\\LinkedList.cs",
+              "RelativeDocumentMoniker": "TextAnalysisApp\\LinkedList.cs",
+              "ToolTip": "C:\\Users\\maggi\\Downloads\\MargaretNjenga24846577\\TextAnalysisApp\\TextAnalysisApp\\LinkedList.cs",
+              "RelativeToolTip": "TextAnalysisApp\\LinkedList.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwCkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:37:55.329Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

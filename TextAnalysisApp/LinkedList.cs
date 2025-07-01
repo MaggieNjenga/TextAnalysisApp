@@ -39,7 +39,7 @@ namespace TextAnalysisTool
             }
             return UniqueCount;
         }
-        public void Display()
+        public void DisplayOcurrences()
         {
             Node temp = headlist;
             while (temp != null)
@@ -104,7 +104,7 @@ namespace TextAnalysisTool
             return (mostFrequent, highestcount);
         }
 
-        public void ShowWordFrequency(string word)
+        public void ContainsInput(string word)
         {
             string input = word.ToLower();
             Node temp = headlist;
